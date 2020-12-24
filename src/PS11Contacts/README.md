@@ -15,4 +15,4 @@
 ![](ImagesContacts/Contacts.png)
 #
 
-## Author: Ozar Aini
+## Author: Murodali Sharipov
